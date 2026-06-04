@@ -1,22 +1,12 @@
-\# Engineering Challenges
+# Engineering Challenges
 
+This repository contains engineering challenge submissions and supporting materials.
 
+## Portfolio Website
 
-This repository contains engineering challenge submissions, technical exercises, and application projects.
+https://jraptor11.github.io/joshua-oliveira-engineering-portfolio/
 
+## Contents
 
-
-Portfolio Website:
-
-\- https://jraptor11.github.io/joshua-oliveira-engineering-portfolio/
-
-
-
-\## Contents
-
-
-
-\- Joshua Oliveira Firmware Challenge (WindBorne Systems Firmware Engineer Application)
-
-\- Joshua Oliveira WindBorne Resume (WindBorne Systems Firmware Engineer Application)
-
+- [Joshua Oliveira Firmware Challenge](Joshua_Oliveira_Firmware_Challenge.pdf)
+- [Joshua Oliveira Resume](Joshua_Oliveira_WindBorne_Resume.pdf)
